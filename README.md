@@ -8,7 +8,7 @@ Skills: HTML, CSS, JAVASCRIPT, JSON, API, SQL, GULP, SCSS, EJS, NODEJS
 
 - 🔭 I’m currently working on Discord Bot whit name "Smiley Face Discord Bot"
 - 💬 Ask me about My self 😄
-- 📫 How to reach me whit Email: Click here to send me a [mail](mailto:Benjamin.Hansen44@gmail.com?subject=[GitHub])
+- 📫 How to reach me whit Email: Click here to send me a <a href='mailto:Benjamin.Hansen44@gmail.com?subject=[GitHub]' target="blank">mail</a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BenjiCS)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/BenjiCS)
@@ -19,13 +19,13 @@ Skills: HTML, CSS, JAVASCRIPT, JSON, API, SQL, GULP, SCSS, EJS, NODEJS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10927248)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/BenjiCSHD/)
 
-<a href='https://archiveprogram.github.com/'>
+<a href='https://archiveprogram.github.com/' target="blank">
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
 </a>
-<a href='https://docs.github.com/en/developers'>
+<a href='https://docs.github.com/en/developers' target="blank">
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 </a>
-<a href='https://github.com/pricing'>
+<a href='https://github.com/pricing' target="blank">
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'>
 </a>
 
