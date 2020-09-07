@@ -4,7 +4,7 @@
 
 I am a Frontend developer from Denmark and I can speak and write English and I have studied in _Roskile Technical School as a Web Developer_
 
-Skills: HTML, CSS, JAVASCRIPT, JSON, API, SQL, GULP, SCSS, EJS, NODEJS
+Skills:
 
 [<img src='https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg' alt='css3' height='40'>]()
 [<img src='https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg' alt='gulp' height='40'>]()
