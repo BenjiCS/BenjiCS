@@ -11,7 +11,7 @@ I am a Frontend developer from Denmark and I can speak and write English and I h
 > > ![https://shields.io/](https://img.shields.io/badge/JAVASCRIPT-%E2%9C%94-yellow)
 > > ![https://shields.io/](https://img.shields.io/badge/MONGODB-%E2%9C%94-brightgreen)
 > > ![https://shields.io/](https://img.shields.io/badge/MYSQL-%E2%9C%94-orange)
-> > ![https://shields.io/](https://img.shields.io/badge/NODE.JS-%E2%9C%94-brightgreen)
+> > ![https://shields.io/](https://img.shields.io/badge/NODEJS-%E2%9C%94-brightgreen)
 > > ![https://shields.io/](https://img.shields.io/badge/REACT-%E2%9C%94-lightblue)
 > > ![https://shields.io/](https://img.shields.io/badge/SCSS-%E2%9C%94-red)
 > > ![https://shields.io/](https://img.shields.io/badge/PWA-%E2%9C%94-blue)
