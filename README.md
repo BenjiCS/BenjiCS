@@ -6,23 +6,23 @@ I am a Frontend developer from Denmark and I can speak and write English and I h
 
 Skills:
 
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg' alt='css3' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg' alt='gulp' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg' alt='html5' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg' alt='javascript' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg' alt='mysql' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg' alt='react' height='40'>]()
-[<img src='https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg' alt='sass' height='40'>]()
-[<img src='https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/77744cd5c0a4d484bb3d082c6ac458c44202da03/pwalogo.svg' alt='pwa' height='40'>]()
-[<img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='tailwind' height='40'>]()
+![https://shields.io/](https://img.shields.io/badge/CSS3-%E2%9C%94-blue)
+![https://shields.io/](https://img.shields.io/badge/GULP-%E2%9C%94-red)
+![https://shields.io/](https://img.shields.io/badge/HTML-%E2%9C%94-red)
+![https://shields.io/](https://img.shields.io/badge/JAVASCRIPT-%E2%9C%94-yellow)
+![https://shields.io/](https://img.shields.io/badge/MONGODB-%E2%9C%94-green)
+![https://shields.io/](https://img.shields.io/badge/MYSQL-%E2%9C%94-orange)
+![https://shields.io/](https://img.shields.io/badge/NODE.JS-%E2%9C%94-green)
+![https://shields.io/](https://img.shields.io/badge/REACT-%E2%9C%94-lightblue)
+![https://shields.io/](https://img.shields.io/badge/SCSS-%E2%9C%94-red)
+![https://shields.io/](https://img.shields.io/badge/PWA-%E2%9C%94-darkblue)
+![https://shields.io/](https://img.shields.io/badge/TAILWINDCSS-%E2%9C%94-green)
 
 - 🔭 I’m currently working on Discord Bot whit name [Smiley Face Discord Bot](https://github.com/BenjiCS/Smiley-Face-Discord-Bot)
 - 💬 Ask me about My self 😄
 - 📫 How to reach me with Email: Benjamin.Hansen44@gmail.com
 
-[<img src='https://image.flaticon.com/icons/svg/733/733553.svg' alt='github' height='40'>](https://github.com/BenjiCS)
+[<img src='https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor' alt='github' height='40'>](https://github.com/BenjiCS)
 [<img src='https://image.flaticon.com/icons/svg/174/174857.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjaminhansen44/)
 [<img src='https://image.flaticon.com/icons/svg/1384/1384053.svg' alt='facebook' height='40'>](https://www.facebook.com/BenjiCSHD)
 [<img src='https://image.flaticon.com/icons/svg/1384/1384063.svg' alt='instagram' height='40'>](https://www.instagram.com/BenjiCSDK/)
