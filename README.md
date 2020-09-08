@@ -4,19 +4,18 @@
 
 I am a Frontend developer from Denmark and I can speak and write English and I have studied in _Roskile Technical School as a Web Developer_
 
-Skills:
-
-> ![https://shields.io/](https://img.shields.io/badge/CSS3-%E2%9C%94-blue)
-> ![https://shields.io/](https://img.shields.io/badge/GULP-%E2%9C%94-red)
-> ![https://shields.io/](https://img.shields.io/badge/HTML-%E2%9C%94-red)
-> ![https://shields.io/](https://img.shields.io/badge/JAVASCRIPT-%E2%9C%94-yellow)
-> ![https://shields.io/](https://img.shields.io/badge/MONGODB-%E2%9C%94-green)
-> ![https://shields.io/](https://img.shields.io/badge/MYSQL-%E2%9C%94-orange)
-> ![https://shields.io/](https://img.shields.io/badge/NODE.JS-%E2%9C%94-green)
-> ![https://shields.io/](https://img.shields.io/badge/REACT-%E2%9C%94-lightblue)
-> ![https://shields.io/](https://img.shields.io/badge/SCSS-%E2%9C%94-red)
-> ![https://shields.io/](https://img.shields.io/badge/PWA-%E2%9C%94-darkblue)
-> ![https://shields.io/](https://img.shields.io/badge/TAILWINDCSS-%E2%9C%94-green)
+> Skills:
+> > ![https://shields.io/](https://img.shields.io/badge/CSS3-%E2%9C%94-blue)
+> > ![https://shields.io/](https://img.shields.io/badge/GULP-%E2%9C%94-red)
+> > ![https://shields.io/](https://img.shields.io/badge/HTML-%E2%9C%94-red)
+> > ![https://shields.io/](https://img.shields.io/badge/JAVASCRIPT-%E2%9C%94-yellow)
+> > ![https://shields.io/](https://img.shields.io/badge/MONGODB-%E2%9C%94-green)
+> > ![https://shields.io/](https://img.shields.io/badge/MYSQL-%E2%9C%94-orange)
+> > ![https://shields.io/](https://img.shields.io/badge/NODE.JS-%E2%9C%94-green)
+> > ![https://shields.io/](https://img.shields.io/badge/REACT-%E2%9C%94-lightblue)
+> > ![https://shields.io/](https://img.shields.io/badge/SCSS-%E2%9C%94-red)
+> > ![https://shields.io/](https://img.shields.io/badge/PWA-%E2%9C%94-darkblue)
+> > ![https://shields.io/](https://img.shields.io/badge/TAILWINDCSS-%E2%9C%94-green)
 
 - 🔭 I’m currently working on Discord Bot whit name [Smiley Face Discord Bot](https://github.com/BenjiCS/Smiley-Face-Discord-Bot)
 - 💬 Ask me about My self 😄
