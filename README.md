@@ -15,6 +15,7 @@ Skills:
 [<img src='https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' height='40'>]()
 [<img src='https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg' alt='react' height='40'>]()
 [<img src='https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg' alt='sass' height='40'>]()
+[<img src='https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/77744cd5c0a4d484bb3d082c6ac458c44202da03/pwalogo.svg' alt='pwa' height='40'>]()
 [<img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='tailwind' height='40'>]()
 
 - 🔭 I’m currently working on Discord Bot whit name [Smiley Face Discord Bot](https://github.com/BenjiCS/Smiley-Face-Discord-Bot)
