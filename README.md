@@ -4,9 +4,7 @@
 
 I am a Frontend developer from Denmark and I can speak and write English and I have studied in _Roskile Technical School as a Web Developer_
 
-Skills:
-
-![https://shields.io/](https://img.shields.io/badge/CSS3-%E2%9C%94-blue)
+Skills:![https://shields.io/](https://img.shields.io/badge/CSS3-%E2%9C%94-blue)
 ![https://shields.io/](https://img.shields.io/badge/GULP-%E2%9C%94-red)
 ![https://shields.io/](https://img.shields.io/badge/HTML-%E2%9C%94-red)
 ![https://shields.io/](https://img.shields.io/badge/JAVASCRIPT-%E2%9C%94-yellow)
