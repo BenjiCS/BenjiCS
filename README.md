@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/BenjiCS/BenjiCS/master/banner.png)
 
 I am a Frontend developer from Denmark and I can speak and write English and I have studied in _Roskile Technical School as a Web Developer_
-
+ ---
 - Skills:
   - ![https://shields.io/](https://img.shields.io/badge/CSS3-%E2%9C%94-blue)
   - ![https://shields.io/](https://img.shields.io/badge/GULP-%E2%9C%94-red)
@@ -16,11 +16,11 @@ I am a Frontend developer from Denmark and I can speak and write English and I h
   - ![https://shields.io/](https://img.shields.io/badge/SCSS-%E2%9C%94-red)
   - ![https://shields.io/](https://img.shields.io/badge/PWA-%E2%9C%94-blue)
   - ![https://shields.io/](https://img.shields.io/badge/TAILWINDCSS-%E2%9C%94-9cf)
-
+ ---
 - 🔭 I’m currently working on Discord Bot whit name [Smiley Face Discord Bot](https://github.com/BenjiCS/Smiley-Face-Discord-Bot)
 - 💬 Ask me about My self 😄
 - 📫 How to reach me with Email: Benjamin.Hansen44@gmail.com
-
+ ---
 [<img src='https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor' alt='github' height='40'>](https://github.com/BenjiCS)
 [<img src='https://image.flaticon.com/icons/svg/174/174857.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjaminhansen44/)
 [<img src='https://image.flaticon.com/icons/svg/1384/1384053.svg' alt='facebook' height='40'>](https://www.facebook.com/BenjiCSHD)
