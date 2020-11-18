@@ -66,8 +66,11 @@
  
 <ul style="display: flex; align-items: center; flex-direction: column;">
   <p style="margin: 0">
-    🔭 I’m currently working on a Discord Bot with name <a href="https://github.com/BenjiCS/Smiley-Face-Discord-Bot" target="blank" style="color: #ffffff; text-decoration: underline">Smiley Face Discord Bot</a>
+    🔭 I’m currently working on a Discord Bot with name <a href="https://github.com/BenjiCS/Smiley-Face-Discord-Bot" target="blank" style="color: #ffffff; text-decoration: underline">Smiley Face Discord Bot</a
   </p>
+  <p>
+    <a href="https://top.gg/bot/705436648388690023"><img src="https://top.gg/api/widget/705436648388690023.svg"></a>
+  </p
   <p style="margin: 0">
     💬 Ask me about My self 😄
   </p>
