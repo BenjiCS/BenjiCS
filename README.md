@@ -2,7 +2,7 @@
   
 ## Currently working on
 
-- Nothing
+- Discord Bot (SmilyFace)
 
 ## Social
   <a href="https://discord.com/users/250281859294953483" target="_blank"><img alt="BenjiCS" src="https://img.shields.io/badge/-Account-4e5d94?style=for-the-badge&logo=Discord&logoColor=white"></a>
