@@ -1,4 +1,4 @@
-# Hey there 👋! I'm Benjamin Hansen (a.k.a. BenjiCS)
+# Hey there 👋! I'm Benjamin Hansen (a.k.a. Baitermin)
   
 ## Currently working on
 
