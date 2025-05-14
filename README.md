@@ -29,8 +29,6 @@
 ![Discord](https://img.shields.io/badge/Discord.JS-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Misc
-![widget](https://discord.c99.nl/widget/theme-3/250281859294953483.png) 
-
 ![](https://komarev.com/ghpvc/?username=BenjiCS&style=for-the-badge)
 
 ## Stats
